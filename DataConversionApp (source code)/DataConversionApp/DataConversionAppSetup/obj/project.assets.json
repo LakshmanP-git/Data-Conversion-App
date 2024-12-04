@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laksh_8xmsyks\\DataConversionApp (source code)\\DataConversionApp\\DataConversionAppSetup\\DataConversionApp.csproj",
+      "projectUniqueName": "C:\\Users\\laksh_8xmsyks\\OneDrive\\Documents\\GitHub\\Data-Conversion-App\\DataConversionApp (source code)\\DataConversionApp\\DataConversionAppSetup\\DataConversionApp.csproj",
       "projectName": "DataConversionApp",
-      "projectPath": "C:\\Users\\laksh_8xmsyks\\DataConversionApp (source code)\\DataConversionApp\\DataConversionAppSetup\\DataConversionApp.csproj",
+      "projectPath": "C:\\Users\\laksh_8xmsyks\\OneDrive\\Documents\\GitHub\\Data-Conversion-App\\DataConversionApp (source code)\\DataConversionApp\\DataConversionAppSetup\\DataConversionApp.csproj",
       "packagesPath": "C:\\Users\\laksh_8xmsyks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laksh_8xmsyks\\DataConversionApp (source code)\\DataConversionApp\\DataConversionAppSetup\\obj\\",
+      "outputPath": "C:\\Users\\laksh_8xmsyks\\OneDrive\\Documents\\GitHub\\Data-Conversion-App\\DataConversionApp (source code)\\DataConversionApp\\DataConversionAppSetup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

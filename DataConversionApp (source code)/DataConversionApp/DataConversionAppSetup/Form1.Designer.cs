@@ -114,10 +114,10 @@
             byte_rb.AutoSize = true;
             byte_rb.Location = new Point(31, 77);
             byte_rb.Name = "byte_rb";
-            byte_rb.Size = new Size(66, 19);
+            byte_rb.Size = new Size(57, 19);
             byte_rb.TabIndex = 2;
             byte_rb.TabStop = true;
-            byte_rb.Text = "Byte (B)";
+            byte_rb.Text = "Bit (B)";
             byte_rb.UseVisualStyleBackColor = true;
             // 
             // valueToConvert_txt
@@ -211,10 +211,10 @@
             byteConvert_rb.AutoSize = true;
             byteConvert_rb.Location = new Point(31, 77);
             byteConvert_rb.Name = "byteConvert_rb";
-            byteConvert_rb.Size = new Size(66, 19);
+            byteConvert_rb.Size = new Size(57, 19);
             byteConvert_rb.TabIndex = 2;
             byteConvert_rb.TabStop = true;
-            byteConvert_rb.Text = "Byte (B)";
+            byteConvert_rb.Text = "Bit (B)";
             byteConvert_rb.UseVisualStyleBackColor = true;
             // 
             // convertOutput_txt

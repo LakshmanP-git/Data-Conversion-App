@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataConversionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e3422997a0d5d84a2a33b587167221f21e6a6b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataConversionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataConversionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
