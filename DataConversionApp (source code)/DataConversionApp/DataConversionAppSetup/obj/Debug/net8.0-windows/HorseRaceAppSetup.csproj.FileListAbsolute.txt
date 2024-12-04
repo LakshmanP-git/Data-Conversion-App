@@ -1,0 +1,16 @@
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\bin\Debug\net8.0-windows\HorseRaceAppSetup.exe
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\bin\Debug\net8.0-windows\HorseRaceAppSetup.deps.json
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\bin\Debug\net8.0-windows\HorseRaceAppSetup.runtimeconfig.json
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\bin\Debug\net8.0-windows\HorseRaceAppSetup.dll
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\bin\Debug\net8.0-windows\HorseRaceAppSetup.pdb
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.dataStorageConversion_frm.resources
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.csproj.GenerateResource.cache
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.AssemblyInfoInputs.cache
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.AssemblyInfo.cs
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.csproj.CoreCompileInputs.cache
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.dll
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\refint\HorseRaceAppSetup.dll
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.pdb
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\HorseRaceAppSetup.genruntimeconfig.cache
+C:\Users\laksh_8xmsyks\source\repos\HorseRaceAppSetup\HorseRaceAppSetup\obj\Debug\net8.0-windows\ref\HorseRaceAppSetup.dll

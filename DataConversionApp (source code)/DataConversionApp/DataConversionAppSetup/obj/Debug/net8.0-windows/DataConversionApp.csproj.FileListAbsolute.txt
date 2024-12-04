@@ -1,0 +1,16 @@
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.csproj.GenerateResource.cache
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.AssemblyInfoInputs.cache
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.AssemblyInfo.cs
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.csproj.CoreCompileInputs.cache
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\bin\Debug\net8.0-windows\DataConversionApp.exe
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\bin\Debug\net8.0-windows\DataConversionApp.deps.json
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\bin\Debug\net8.0-windows\DataConversionApp.runtimeconfig.json
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\bin\Debug\net8.0-windows\DataConversionApp.dll
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\bin\Debug\net8.0-windows\DataConversionApp.pdb
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.dll
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\refint\DataConversionApp.dll
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.pdb
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.genruntimeconfig.cache
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\ref\DataConversionApp.dll
+C:\Users\laksh_8xmsyks\source\repos\DataConversionApp\DataConversionAppSetup\obj\Debug\net8.0-windows\DataConversionApp.dataStorageConversion_frm.resources
