@@ -12,17 +12,6 @@ namespace DataConversionApp
 
         private void convert_btn_Click(object sender, EventArgs e)
         {
-            RadioButton[] radioButtons = new RadioButton[10];
-            radioButtons[0] = byte_rb;
-            radioButtons[1] = kilobit_rb;
-            radioButtons[2] = megabit_rb;
-            radioButtons[3] = gigabit_rb;
-            radioButtons[4] = terabit_rb;
-            radioButtons[5] = byteConvert_rb;
-            radioButtons[6] = kilobitConvert_rb;
-            radioButtons[7] = megabitConvert_rb;
-            radioButtons[8] = gigabitConvert_rb;
-            radioButtons[9] = terabitConvert_rb;
             try
                 {
                     //This initiates an int variable and assigns it to the value of valueToConvert_txt.Text but as an int
